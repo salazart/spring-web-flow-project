@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<flow xmlns="http://www.springframework.org/schema/webflow"
+ start-state="home">
+
+    <view-state id="home" view="/WEB-INF/views/home.jsp"/>
+</flow>
